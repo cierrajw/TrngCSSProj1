@@ -1,0 +1,31 @@
+body{
+
+	background: linear-gradient(#488997, #8e8e8e);
+	}
+
+p{
+	color: black;
+	
+}
+h1{
+}
+div{
+	background-color: white;
+	box-shadow: 5px 10px #888888;
+	color: yellow;
+}
+.jumbotron{
+	color: blue;
+	background-color: #8e8e8e;
+}
+.btn{
+	background-color: orange;
+}
+button.#unique{
+	color: orange !important;
+	background-color: orange !important;
+}
+.btn.btn-default.btn-lg.bt-primary{
+	color: orange !important;
+	background-color: orange !important;
+}
